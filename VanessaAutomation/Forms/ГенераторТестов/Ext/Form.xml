@@ -142,20 +142,20 @@
 							<v8:content>Настройки</v8:content>
 						</v8:item>
 						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>Einstellungen</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>es</v8:lang>
+							<v8:content>Ajustes</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>et</v8:lang>
 							<v8:content>Seaded</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>fr</v8:lang>
 							<v8:content>Les paramètres de</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ka</v8:lang>
-							<v8:content>პარამეტრები</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>de</v8:lang>
-							<v8:content>Einstellungen</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>hu</v8:lang>
@@ -166,12 +166,16 @@
 							<v8:content>Impostazioni</v8:content>
 						</v8:item>
 						<v8:item>
-							<v8:lang>lv</v8:lang>
-							<v8:content>Uzstādījumi</v8:content>
+							<v8:lang>ka</v8:lang>
+							<v8:content>პარამეტრები</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>lt</v8:lang>
 							<v8:content>Parametrai</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>lv</v8:lang>
+							<v8:content>Uzstādījumi</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>mn</v8:lang>
@@ -188,10 +192,6 @@
 						<v8:item>
 							<v8:lang>sl</v8:lang>
 							<v8:content>Nastavitve</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>es</v8:lang>
-							<v8:content>Ajustes</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>sv</v8:lang>
@@ -455,20 +455,20 @@
 							<v8:content>Сценарий на поведение</v8:content>
 						</v8:item>
 						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>Szenario Verhalten</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>es</v8:lang>
+							<v8:content>La secuencia de comandos de la conducta</v8:content>
+						</v8:item>
+						<v8:item>
 							<v8:lang>et</v8:lang>
 							<v8:content>Stsenaarium käitumist</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>fr</v8:lang>
 							<v8:content>Le script de comportement</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ka</v8:lang>
-							<v8:content>ქცევა</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>de</v8:lang>
-							<v8:content>Szenario Verhalten</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>hu</v8:lang>
@@ -479,12 +479,16 @@
 							<v8:content>Lo scenario di comportamento</v8:content>
 						</v8:item>
 						<v8:item>
-							<v8:lang>lv</v8:lang>
-							<v8:content>Uzvedības scenāriju</v8:content>
+							<v8:lang>ka</v8:lang>
+							<v8:content>ქცევა</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>lt</v8:lang>
 							<v8:content>Scenarijus elgesio</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>lv</v8:lang>
+							<v8:content>Uzvedības scenāriju</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>mn</v8:lang>
@@ -501,10 +505,6 @@
 						<v8:item>
 							<v8:lang>sl</v8:lang>
 							<v8:content>Vedenje</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>es</v8:lang>
-							<v8:content>La secuencia de comandos de la conducta</v8:content>
 						</v8:item>
 						<v8:item>
 							<v8:lang>sv</v8:lang>

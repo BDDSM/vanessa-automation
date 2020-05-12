@@ -83,7 +83,7 @@
 						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
-							<v8:content>A list of columns</v8:content>
+							<v8:content>Column list</v8:content>
 						</v8:item>
 					</Title>
 					<ContextMenu name="СписокКолонокКонтекстноеМеню" id="20"/>
@@ -205,10 +205,6 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>Пометить все</v8:content>
 				</v8:item>
-				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>Mark all</v8:content>
-				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
@@ -230,7 +226,7 @@
 				</v8:item>
 				<v8:item>
 					<v8:lang>en</v8:lang>
-					<v8:content>To remove all</v8:content>
+					<v8:content>Clear all</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>

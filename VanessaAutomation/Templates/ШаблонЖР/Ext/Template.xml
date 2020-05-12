@@ -154,6 +154,86 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>№</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Line number</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>am</v8:lang>
+							<v8:content> ቅድሚያ.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>az</v8:lang>
+							<v8:content>№ satır</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>bg</v8:lang>
+							<v8:content>№ ред</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>№ Zeile</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>es</v8:lang>
+							<v8:content> número de línea de</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>et</v8:lang>
+							<v8:content> nr rea</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>fr</v8:lang>
+							<v8:content> n ° de ligne</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>hu</v8:lang>
+							<v8:content> a vonal Nem.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>it</v8:lang>
+							<v8:content>№ riga</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ka</v8:lang>
+							<v8:content> line არა.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>lt</v8:lang>
+							<v8:content> nr. eilutės</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>lv</v8:lang>
+							<v8:content>№ rindas</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>mn</v8:lang>
+							<v8:content> мөр Үгүй.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>pl</v8:lang>
+							<v8:content> nr wiersza</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ro</v8:lang>
+							<v8:content> nr. de comandă</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sl</v8:lang>
+							<v8:content> linija Št.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>sv</v8:lang>
+							<v8:content> linje Nr.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content> no. satır</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>vi</v8:lang>
+							<v8:content>Dòng số</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -329,6 +409,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Транзакция</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>The transaction</v8:content>
 						</v8:item>
 					</tl>
 				</c>
